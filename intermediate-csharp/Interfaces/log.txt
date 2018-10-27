@@ -1,0 +1,2 @@
+INFO: Migration started at 10/23/18 4:22:47 PM
+INFO: Migration finished at 10/23/18 4:22:47 PM

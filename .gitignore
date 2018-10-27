@@ -1,0 +1,9 @@
+beginner-csharp/*/.vscode/*
+beginner-csharp/*/obj/*
+beginner-csharp/*/bin/*
+beginner-csharp/*/*.csproj
+
+intermediate-csharp/*/.vscode/*
+intermediate-csharp/*/obj/*
+intermediate-csharp/*/bin/*
+intermediate-csharp/*/*.csproj
